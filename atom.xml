@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><title type="text">axyc.me</title><subtitle type="html">Andrew C's writing blog - 陈心宇的个人博客</subtitle><updated>2022-07-25T05:12:40+00:00</updated><id>https://axyc.me/</id><link rel="alternate" type="text/html" href="https://axyc.me/"/><link rel="self" type="application/atom+xml" href="https://axyc.me/atom.xml"/><author><name>Andrew Chen</name><uri>https://axyc.me/</uri><email>mugseller22@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><generator uri="https://gohugo.io/" version="0.98.0">Hugo</generator><entry><title type="text">Hello World</title><link rel="alternate" type="text/html" href="https://axyc.me/writings/hello-world/"/><id>https://axyc.me/writings/hello-world/</id><updated>2022-07-25T05:12:04+00:00</updated><published>2022-07-02T02:26:18-07:00</published><author><name>Andrew Chen</name><uri>https://axyc.me/</uri><email>mugseller22@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">what dis site is aboute</summary><content type="html">&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-javascript" data-lang="javascript">&lt;span class="line">&lt;span class="cl">&lt;span class="nx">console&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">log&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Hello world&amp;#34;&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="what-is-this-site-about">What is this site about?&lt;/h2>
+&lt;p>&lt;strong>TLDR:&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>space to organize and cleanup my thoughts (currently with religion)&lt;/li>
+&lt;li>live notebook of books (+ movies + animes + blogs)&lt;/li>
+&lt;li>playground for creative writing&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;p>I wanted to setup this blog for the longest time ever since college. It was a pretty turbulent four years for me with a bunch of first times: first time when life becomes less of a linear path as dictated by a fixed high school routine, first time when career becomes more of a reality instead of a distant figment of adulthood, first time when I started a relationship with little certainty in sight, etc, etc. Looking back now, it wasn&amp;rsquo;t all misery fest as I felt when going through it (I think I just have trouble dealing with changes). But for a large part of these four years, I was preoccupied with a constant anxiety; it was the first time when I seriously came to question just about every aspect of the religion I was raised in, started with the things I was learning in books/courses/videos in academic subjects, which got carried into my interactions and talks with ranges of people, exploring these things myself outside the confines of a familiar church environment dedicated to keep one guided on an expected path. It was a really tough thing for me to go through emotionally, a slow process that broke down the view of my identity and the surrounding world that I knew of into millions of pieces. As a full blown INFP then, I coped with it mostly through talking inside of my own head, with battles of beliefs waged internally and thoughts accumulated into the various notes sitting in my IPhone. It is still something that I am slowly working my way through now and is the primary reason I wanted to start this blog, both as a place to put those scattered notes into a more organized format as well as a space of interfaith dialogue for anyone interested. It is so I can better eventually move past them knowing why I believe the things I believe, why I did the things I did, and why I become the person I am.&lt;/p>
+&lt;p>On this related note, I was going back to some of my old books to write about this journey, and I was surprised to find just how much the information there I now have no recollection of learning. Although this is mostly a natural product of time, my not-so-good memory, and me simply not using them, it&amp;rsquo;s probably also a consequence of me receiving information too passively the first time I was learning. So to help with this and also help myself get back into a habit of reading, this site would serve as a live notebook of sort for me to digest and jot down interpretations (in practice of the &lt;a href="https://fs.blog/feynman-technique/">feynmann technique&lt;/a>)&lt;/p>
+&lt;p>Lastly, I wanted to have my own playground to test the water a bit with fiction/creative writing. After falling off a bit from (academic) philosophy, it came as a rather new revelation to me, that story is the most powerful and natural medium to approximate the human experience; in college I was drawn to philosophy initially in pursuit of finding something &amp;ldquo;foundational&amp;rdquo; to this, be it language, epistemology, ethics, logic, etc. While the philosophical treatise I was reading do this by abstracting the concrete, phenomenal experiences into atomic truth statements and propositional arrangements, stories are the reverse, in that they place careful thoughts onto the so called &amp;ldquo;not truth bearing&amp;rdquo; details relevant to the psyche, which different mediums excel in different ways: the social, historical, and geographical setting, the color and the mood, the personalities and backstories of the characters, their intonation and composure, their actions and motives, etc. In the totality of this, the story teller sets the stage to bring forth previously overlooked details of life or even morally reprehended tabboos/social mores and show their purposes of existence. I personally find stories to have more convincing power than arguments (or at least more effective in doing so), because they show that the dynamic between truths and beliefs are always contextually situated in a myriad of connected circumstances rather than arrived by the pure logical evaluation for the hand selected few propositions. Wondering of how and why compelling stories are compelling is something I enjoy far more than coming up with and analyzing arguments in the vacuum. I think I was always more-or-less drawn to stories of all kinds when I was young. With the unearned ego of a kid, I thought that one day I can create my own that are just as good if not better. This site is for keeping that childhood dream alive&lt;/p>
+&lt;div class="quote block">&lt;blockquote>
+&lt;p>
+Fiction is not fact, but fiction is fact selected and understood, fiction is fact arranged and charged with purpose.
+&lt;/p>&lt;footer>–Thomas Wolfe&lt;/footer>
+&lt;/blockquote>
+&lt;/div>
+&lt;h2 id="credits">Credits&lt;/h2>
+&lt;p>&lt;em>The below list would be updated as the site continues to evolve&lt;/em>&lt;/p>
+&lt;p>Obvious creds to &lt;a href="https://github.com/reuixiy">@reuixiy&lt;/a> for this beautiful hugo theme.
+And because I&amp;rsquo;m too unimaginative to come up with my own UI designs, I referenced below people&amp;rsquo;s blogs and sites for layout &amp;amp; content organization ideas (and shamelessly copied some.. :&amp;rsquo;) Credits to them as well:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://nadia.xyz/">Nadia Asparouhova&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://yuhi.xyz/">Yuhi&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://jzhao.xyz/">Jacky Zhao&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.ribbonfarm.com">Ribbonfarm&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.goodreads.com/">Goodreads&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.medium.com/">Medium&lt;/a>&lt;/li>
+&lt;/ul></content><category scheme="https://axyc.me/writings/" term="writings" label="writings"/><category scheme="https://axyc.me/tags/blog/" term="blog" label="blog"/></entry><entry><title type="text">Bible</title><link rel="alternate" type="text/html" href="https://axyc.me/books/religion/bible/"/><id>https://axyc.me/books/religion/bible/</id><updated>2022-07-25T05:12:04+00:00</updated><published>2022-06-19T22:05:14-07:00</published><author><name>Andrew Chen</name><uri>https://axyc.me/</uri><email>mugseller22@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Old Testament Genesis notes
+Exodus notes
+Leviticus notes
+Numbers notes
+Deuteronomy notes
+Joshua notes</summary><content type="html">&lt;h2 id="old-testament">Old Testament&lt;/h2>
+&lt;h3 id="genesis">Genesis&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="exodus">Exodus&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="leviticus">Leviticus&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="numbers">Numbers&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="deuteronomy">Deuteronomy&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="joshua">Joshua&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="judges">Judges&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="ruth">Ruth&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="1-samuel">1 Samuel&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="2-samuel">2 Samuel&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="1-king">1 King&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="2-king">2 King&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="1-chronicles">1 Chronicles&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="2-chronicles">2 Chronicles&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="ezra">Ezra&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="nehemiah">Nehemiah&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="esther">Esther&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="job">Job&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="psalms">Psalms&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="proverbs">Proverbs&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="ecclesiastes">Ecclesiastes&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="song-of-solomon">Song of Solomon&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="isaiah">Isaiah&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="jeremiah">Jeremiah&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="lamentations">Lamentations&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="ezekiel">Ezekiel&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="daniel">Daniel&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="hosea">Hosea&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="joel">Joel&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="amos">Amos&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="obadiah">Obadiah&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="jonah">Jonah&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="micah">Micah&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="nahum">Nahum&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="habakkuk">Habakkuk&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="zephaniah">Zephaniah&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="haggai">Haggai&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="zechariah">Zechariah&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="malachi">Malachi&lt;/h3>
+&lt;h2 id="new-testament">New Testament&lt;/h2>
+&lt;p>notes&lt;/p>
+&lt;h3 id="gospel-of-matthew">Gospel of Matthew&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="gospel-of-mark">Gospel of Mark&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="gospel-of-luke">Gospel of Luke&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="gospel-of-john">Gospel of John&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="acts">Acts&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="romans">Romans&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="1-corinthians">1 Corinthians&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="2-corinthians">2 Corinthians&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="galatians">Galatians&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="ephesians">Ephesians&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="philippians">Philippians&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="colossians">Colossians&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="1-thessalonians">1 Thessalonians&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="2-thessalonians">2 Thessalonians&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="1-timothy">1 Timothy&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="2-timothy">2 Timothy&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="titus">Titus&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="philemon">Philemon&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="hebrews">Hebrews&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="james">James&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="1-peter">1 Peter&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="2-peter">2 Peter&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="1-john">1 John&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="2-john">2 John&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="3-john">3 John&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="jude">Jude&lt;/h3>
+&lt;p>notes&lt;/p>
+&lt;h3 id="revelation">Revelation&lt;/h3>
+&lt;p>notes&lt;/p></content><category scheme="https://axyc.me/books/" term="books" label="books"/><category scheme="https://axyc.me/books/religion/" term="religion" label="religion"/></entry><entry><title type="text">What I Learned About Value From Losing My Dad</title><link rel="alternate" type="text/html" href="https://axyc.me/writings/what-i-learned-about-value-from-losing-my-dad/"/><id>https://axyc.me/writings/what-i-learned-about-value-from-losing-my-dad/</id><updated>2022-07-25T05:12:04+00:00</updated><published>2020-08-01T00:00:00+00:00</published><author><name>Andrew Chen</name><uri>https://axyc.me/</uri><email>mugseller22@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">story of dad and job hunting</summary><content type="html">&lt;p>February 12th, the day after Andrew Yang dropped out of the presidential race, I remember running into the few friends who knew I was very involved in his campaign. Out of genuine concern, they asked how I felt about the news, to which I casually replied that it was a logical outcome I expected, given his disappointing finish in the Iowa and New Hampshire primary as well as his campaign’s poor economic circumstances at the time. But as I returned home and tried to resume my normal routine, my girlfriend noticed my unusual reticence and asked if I was okay. I knew my quietness probably came from a sense of disappointment that I was unwilling to express, though I believed that my unperturbed reaction to Yang’s exit was the appropriate response. However, as I confronted my own emotions, I realized that all the support I gave to Yang, the donations and phone banking, inadvertently grew as an offshoot from the conflicts I had with my father, who passed away unexpectedly three months prior. As his campaign came to its procedural end, it suddenly hit me that the closure with my dad, one that I was searching for through Yang’s campaign this whole time, also ended in permanence. Knowing that I lost him for the last time, I broke down.&lt;/p>
+&lt;hr>
+&lt;p>Yang appealed to the nerdy software engineering demographic both my dad and I are from: he is witty, technologically literate, and unapologetically honest for problem-solving. I saw Yang as the conversational bridge that would create new opportunities for discussion with my dad regarding our generational differences as well as commonalities, since my dad usually does not share transparently about his political perspectives. But it was the topic of the intersection between work and value, one central to Yang’s entire platform, that touched me the most, as it defined the basis of tension underlying the exchanges with my dad throughout my time in college. Yang often alludes to our society’s collective mistake in seeing economic value and human value as one and the same. He argued that not only the various types of work that are valuable to a healthy, functional society, such as teaching, art, or local journalism, are undervalued and actively discouraged by our economic structure, people often helplessly tie their identity to their work and everything about their work; the failure to meet the standards of the job market, when viewed as an individual failure, easily becomes psychologically destructive. Personally, this confluence of economic and human value was reinforced deeply into my cognition by the scattered conversations with my dad and my time as an undergrad in computer science.&lt;/p>
+&lt;p>Perhaps my dad saw his engineering side in me, he had been rather intentional to push me towards software development ever since high school, oftentimes indirectly by suggesting how interesting he finds programming to be or sometimes directly by urging me to invest more time into it. Despite also taking interest in computers and enrolling in a computer science program, I was more inquisitive at the time about the origin and development of the religion I was indoctrinated in, which naturally gravitated me towards humanity subjects such as philosophy and history. My exposure then to the vast array of human thoughts left me with much anxiety about the cohabiting sympathy and antagonism towards my own upbringing and identity. But at the same time, I thought that studying about the nuanced evolution to the world of ideas was not just extremely helpful in being more self-aware but also beneficial to the fast-paced, ahistorical society that seems to be so insensitive to the nuance of culture and human thoughts. My fascination in humanity studies eventually seeped into the occasional conversations I had with my dad. He would always ask excitedly about the computer science classes I was in, and I would briefly talk about them but also slip in the interesting things I found from my history or philosophy courses. Perhaps out of ignorance or genuine disinterest in those subjects, he would quickly change the conversations to be about my programming job search. His silent indifference would often frustrate me, but to hide it, I would just jokingly blurt out my desire to be someone different, “maybe I want to be a historian or a philosopher.” This caught him with surprise at first, but as I indicated more about my seriousness in considering an alternative academic career in the humanity fields, our conversation would just quickly devolve into both sides defending what they perceive as valuable, with the major lingering point of tension essentially amounting to a simple concern:&lt;/p>
+&lt;p>&lt;em>How do those pursuits translate monetarily?&lt;/em>&lt;/p>
+&lt;p>It wasn’t just the thought itself that bothered me, which by any means is very reasonable, but rather the presumed belief that a career is not worth pursuing if it does not generate enough capital. To my sensitive self then, his repeated advocacy for a programming career and unspoken dismissal towards my passion meant an invalidation of the studies I valued greatly, simply on the basis of their economic prospect.&lt;/p>
+&lt;p>Sympathizing with what he said is not something easy for me to do back then, as I was rather resentful towards him, but further reflection on his background has helped me recognize and accept his humanity. Like many other successful Chinese immigrants at the time, my dad grew up in poor conditions, excelled in GaoKao (the Chinese college entrance exam) to enter a prestigious university, came to the states for graduate school, and took up a stable software engineering job afterwards. Coming from his unique competitive times, as well as being the single breadwinner of the house, he was much attuned to a survival mindset, which in the context of modern society, is about securing a stable stream of income from an industry favored by the market; the adeptness at survival is characterized by how irreplaceable overall your skills are, which in turns translates to a certain market value. To such ends, the ultimate utility of a college education is only as good as the job it prepares for.&lt;/p>
+&lt;p>And those were the beliefs that were drilled deep into my subconscious, despite my emphatic aversion to the logic behind. Amidst my effort to branch out from computer science, those were the constant backdrops that lead to episodic self-questioning, not just about the bleak economic outlook and the over-saturated market of academia but the virtue of humanity studies themselves. Whatever progress, if there is even such a quantitative metric to judge progress in humanity, seems to be only meaningful in the private, cocooned world of erudite scholars, one that exists at best upon the fringe of this profit-driven society. On the other end, IT, as an entire industry, seems to have the capacity for endless potential, with people of diverse backgrounds swarming in to get a piece of the goldmine. The entrepreneurial tech culture is uplifted with the riveting tales of young geniuses who transformed their ideas into revolutionary products that permanently disrupted the market status-quo, and the only hindrances are one’s creativity, intellect, and perseverance. As someone who witnessed and secured his first bucket of gold from the height of the early dot-com bubble days, my dad spoke about the opportunities that programming creates under this light of exuberance; it is challenging and meaningful to build software. Better yet, the generous pay and benefits provide enough material comfort to never attend to the ugliness of poverty and survival needs.&lt;/p>
+&lt;p>Whether it was my competitiveness or hidden desire to reciprocate his excitement for technology, I adopted a high standard for myself, enrolling in many advanced computer science courses and being largely preoccupied with improving my engineering caliber. However, programming, or rather my perception of programming, increasingly became mentally taxing, as my attitude towards it gradually steered from the fun, genuine craftsmanship to a marketable asset I must hone constantly. Perhaps from the constant greeting of industry whenever I set foot into the CS department, the valuation of my acquired computer skills and knowledge has always been distinctly connected to the industry. Corporations would host weekly tech talks and workshops that aimed to increase their campus presence and help students, but I couldn’t help but see myself as part of a larger competition for human capital, as the speaker would regularly conclude the talks by taking resumes, followed by a line of students eager to network. In this light, my curiosity for knowledge from joining such talks was inevitably overshadowed by the perceived tone of competition, and my sense of identity was slowly directed towards fulfilling this functional role of being an outstanding coder. The anxiety culminated whenever the recruiting season started, as my daily schedule became bombarded by interview calls that seemed like an unending cycle of self-advertising and problem solving, and the rest of my time was dichotomized into school work and the improvement of my career profile. The more I invested myself into computer science, the more guilt I felt while reading the literature I enjoyed, since I was unwittingly convinced that it offered no practical utility. Yet in the face of my self-imposed coercion, philosophy and history offered me solace in the space of introspection that they provided, to momentarily withdraw from the mundanity of my immediate experiences, and to think freely on things outside of computer science that are of importance to human experiences; they were not just a reminder of the transient importance of my labor but were also the fleeting window for self-expression that I desperately needed.&lt;/p>
+&lt;p>Nonetheless, those realizations were only temporary, as my drive to obtain a respectable job led me to focus on the optimization of my market worth, even towards the last moments with my dad. He died from heart failure the day after our last conversation, and that conversation still surfaces vividly when I recall. As I was busy preparing for a final round interview that Sunday night, he called me, with an unusual fatigue and quietness in his voice. Unlike his usual conversation starter, he asked me about how I was feeling, knowing that I was going through a lot of interviews. Having just finished a coding question, I was replaying the solution in my head, so to tune out his existence on the other line, I just responded tersely, hoping to quickly end the conversation. Upon my silence, he paused for a moment, and murmured,&lt;/p>
+&lt;p>“很累吧…(it must be tiring).”&lt;/p>
+&lt;p>I did not reply.&lt;/p>
+&lt;p>In our mutual silence, I could sense that he wanted to keep the conversation going but was struggling to find the right words.&lt;/p>
+&lt;p>Annoyed by this apparent waste of time, I snapped, “我要走了 (I have to go).”&lt;/p>
+&lt;p>“嗯… (ok),” he reassured, “早点休息, 别搞太累了(try to sleep early, don’t stress yourself out).”&lt;/p>
+&lt;p>I hung up.&lt;/p>
+&lt;hr>
+&lt;p>For a long time after his death, I was stuck in a weird loop, void of memory and sentiment towards any event that was happening, and I would often repeatedly refresh the Twitter page of Yang, only to regain a sense of traction to the world from the campaign that I was so used to following. I would often forget, even just now writing, what really made me so attached to humanity, to religion, to history, or to Yang, and I would forget this guilt, suppressed by a dehumanized view of my father, that it was my intense desire to optimize for my economic worth that lost my last chance to connect to him as a human being, to discuss our humanness besides all the fancy technology. It was on that road that I lost my father.&lt;/p>
+&lt;p>Although I could not fully explain back then to him why I valued humanity studies so much, having to touch the death of my father and reflect on my past four years made me understand something so painfully simple, that the concept of value is, at its core, personal and up to the individual to realize; it is relational and cannot be made sense of in the absence of our own perceptions. But in society, values are often structured and pushed from the top-down, in forms of GDP, stock market performance, or just the pay of our jobs. We partake in this distribution process by building cultures that value certain occupations over others. Especially in the one I grew up in, jobs are the ultimate token of societal membership, with its persuasive power hinged upon the cruel reality of hyper-competition over limited opportunities and resources. But what I came to realize is that although our survival needs are indisputably valuable, so are the many things in life that make surviving slightly more bearable in helping us to become more mentally resilient. This intuition to structure my needs or values in a hierarchical order of importance is inadequate because the needs among the hierarchies are much more interrelated and interactive, rather than the strict order of dependence suggested. For me, the need for a stable job does not simply do away the need for community or creative outlets, but the former inhibited me greatly from realizing the importance of the latter.&lt;/p>
+&lt;img src="https://axyc.me/images/maslow-pyramid.png" title="Maslow&amp;#39;s hierarchy of needs" titleLink="https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs"/>
+&lt;p>Deep down, however, this hierarchical way to view value came natural for me and possibly for my dad too because of the deep sense of scarcity in our respective lives. For him, it may have come from the deprivation of food and material comfort in his youth, so he was naturally oriented towards fulfilling those practical needs to sustain a family, and he subsequently viewed them to be more important and foundational. For me, it came from the absence of him in the large majority of my life, the absence of time together for meaningful conversations, and the absence of true recognition. It was such absence that made the notion of him ever so elusive to me. To fill this hollow, I built a towery image of him from the fragments of descriptions I could get from his friends and parents: loyal, energetic, intellectually gifted, hard-working, and responsible. I admired him, chased after his accomplishments, and lashed myself to try harder whenever I fell in order to narrow the gap from him. But there was a deeply buried part of me that just yearned to be understood, and I thought my competence in software engineering was just that last hurdle to cross, and once I crossed it, he would finally listen to me on equal terms. But just as I realized back then and now, he is not perfect, and there is as much that I need to understand about him as I wished he understood about me. I realize that my own worth and purpose was so intricately tied with his existence throughout my life, and I need to find a new way to move forward now. Because in the end, value is something that I have to find on my own.&lt;/p>
+&lt;p>&lt;em>(Cross posted from &lt;a href="https://medium.com/@mugseller22/what-i-learned-about-value-from-losing-my-dad-35ebb82b622">medium&lt;/a>, &lt;a href="https://www.douban.com/note/784061690/?_i=6320600nvluyZM">豆瓣&lt;/a>)&lt;/em>&lt;/p></content><category scheme="https://axyc.me/writings/" term="writings" label="writings"/><category scheme="https://axyc.me/tags/personal-story/" term="personal story" label="personal story"/><category scheme="https://axyc.me/tags/dad/" term="dad" label="dad"/></entry></feed>
