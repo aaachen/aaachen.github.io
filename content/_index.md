@@ -22,6 +22,7 @@ On the side, I am a big lover of table top games and indie games. Only recently 
 
 %%Add section for recent notes/writings here, etc.%%
 
+
 <telescopic>
 <id>pkm-thought</id>
 <content>
