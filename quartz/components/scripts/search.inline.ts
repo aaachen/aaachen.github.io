@@ -489,6 +489,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const currentSlug = e.detail.url
   const data = await fetchData
   const searchElement = document.getElementsByClassName("search")
+  console.log(searchElement);
   for (const element of searchElement) {
     await setupSearch(element, currentSlug, data)
   }

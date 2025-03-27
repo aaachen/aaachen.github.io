@@ -17,7 +17,8 @@
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
-    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
+    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
+    "cleanup": "bin/cleanup.mjs"
   },
   "engines": {
     "npm": ">=9.3.1",
@@ -109,6 +110,7 @@
     "esbuild": "^0.25.1",
     "prettier": "^3.5.3",
     "tsx": "^4.19.3",
-    "typescript": "^5.8.2"
+    "typescript": "^5.8.2",
+    "zx": "^8.4.1"
   }
 }
