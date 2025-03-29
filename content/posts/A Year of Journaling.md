@@ -1,7 +1,6 @@
 ---
-up: null
-created: 2025-03-25T00:00:00.000Z
-modified: 2025-03-27T00:00:00.000Z
+created: '2025-03-24'
+modified: '2025-03-26'
 ---
 Have you ever looked back at a recent picture and have no recollection of it? 
 

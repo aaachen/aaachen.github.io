@@ -1,8 +1,8 @@
 ---
 up:
   - '[[Writing]]'
-created: 2020-08-01T00:00:00.000Z
-modified: 2025-03-27T00:00:00.000Z
+created: '2020-07-31'
+modified: '2025-03-26'
 ---
 
 > *Early thoughts on [[Incentive]]*

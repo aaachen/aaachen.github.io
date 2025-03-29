@@ -1,17 +1,17 @@
 ---
-up:
-  - '[[notes/Obsidian|Obsidian]]'
-created: 2024-10-20T00:00:00.000Z
-modified: 2025-03-27T00:00:00.000Z
+created: '2024-10-19'
+modified: '2025-03-27'
 ---
 
 Here are a few fancier snippets of how I use [[notes/Obsidian|Obsidian]]. It's one of the many ways you can use it. Take what you like.
 
-My vault
+My vault[^1]
 - [Github](https://github.com/aaachen/obsidian-vault-template) 
 - [Download](https://github.com/aaachen/obsidian-vault-template/archive/refs/heads/master.zip)
 
-> [!warning]- 
+[^1]: a folder on your local file system where Obsidian stores your notes, attachments, and configuration files
+
+> [!warning]-
 > It contains a fair bit of scripts, which is bit of an indulgent hobby of mine to customize from time to time. Use at your own risk. 
 > 
 > Obsidian ultimately is just a writing tool; these are for fun things I experiment with and will likely be simplified as my own use evolves.

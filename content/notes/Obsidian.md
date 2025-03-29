@@ -1,7 +1,6 @@
 ---
-up: null
-created: 2024-09-13T00:00:00.000Z
-modified: 2025-03-28T00:00:00.000Z
+created: '2024-09-12'
+modified: '2025-03-27'
 ---
 Obsidian is a lovely text editor / note app with an emphasis on internal links.
 
@@ -9,15 +8,15 @@ People who're into it usually play with a way of connective thinking, or transfo
 
 It's not the most intuitive tool, not because of the tool itself, but often how or what to use it for within this nebulous context. Here's just my two cents of what I think the app is good for.
 
->[!info]+ See also
+>[!info]- See also
 >
->- [[A Year of Journaling|How I got into it]] 
->- [[notes/Obsidian tips & tricks|Some snippets of my use]]
+>[[A Year of Journaling|How I got into it]] and [[notes/Obsidian tips & tricks|some snippets of my use]]
 > 
->>[!note]- Helpful people
->>Posts from those people helped me a lot, mine is a weird mix of them to my own quirks
->>
->>[Jacky Zhao](https://jzhao.xyz/posts/networked-thought), [Steph Ango](https://stephango.com/), [Anne-Laure Le Cunff](https://nesslabs.com/interstitial-journaling), [Andy Matuschak](https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX), [Maggie Appleton](https://maggieappleton.com/garden-history/), [Nicole van der Hoeven](https://www.youtube.com/watch?v=zmgqMZi6QL8), [Nick Milo](https://www.linkingyourthinking.com/), [Eleanor Konik](https://www.eleanorkonik.com/p/themed-logs-not-daily-notes) 
+>> **Helpful people**
+> 
+>Posts from those people helped me a lot, mine is a weird mix of them to my own quirks
+>
+>[Jacky Zhao](https://jzhao.xyz/posts/networked-thought), [Anne-Laure Le Cunff](https://nesslabs.com/interstitial-journaling), [Andy Matuschak](https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX), [Steph Ango](https://stephango.com/), [Maggie Appleton](https://maggieappleton.com/garden-history/), [Nicole van der Hoeven](https://www.youtube.com/watch?v=zmgqMZi6QL8), [Nick Milo](https://www.linkingyourthinking.com/), [Eleanor Konik](https://www.eleanorkonik.com/p/themed-logs-not-daily-notes) 
 
 ## As a saved search
 
