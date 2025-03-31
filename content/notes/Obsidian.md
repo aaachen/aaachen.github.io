@@ -1,6 +1,6 @@
 ---
 created: '2024-09-12'
-modified: '2025-03-27'
+modified: '2025-03-29'
 ---
 Obsidian is a lovely text editor / note app with an emphasis on internal links.
 
@@ -22,7 +22,7 @@ It's not the most intuitive tool, not because of the tool itself, but often how 
 
 If Google and LLMs are knowledge base built at the scale of internet, Obsidian is one built at the personal level. 
 
-When starting off w. those kind of personal knowledge apps, it's quite easy to be overly concerned with a problem of search: how to *organize* things, so you can easily find them later in your own context of use. A common tendency then is to try to re-create this topology of information as you see fit in your mind: with folders, tags, links, visual dashboards, rules to create information (i.e. map of content, naming convention), and various note taxonomies.
+When starting off w. those kind of personal knowledge apps, it's quite easy to be overly concerned with a problem of search: how to *organize* things, so you can easily find them later in your own context of use. A common tendency then is to try to re-create this [[#Personal convention|topology]] of information as you see fit in your mind: with folders, tags, links, visual dashboards, rules to create information (i.e. map of content, naming convention), and various note taxonomies.
 
 Eventually, one can easily fall into the way of re-building [Yahoo](https://medium.com/@monishkumar/yahoo-vs-google-how-the-homepage-has-evolved-3476dc2929d6), which even on a personal scale can get quickly out of hand. In general, search is a hard problem because there're millions of ways you can carve up units of information semantically, but which results "fit" your future context of use[^1] and how to best fetch them are not predictable prior to the organization.
 
@@ -39,3 +39,13 @@ Many of the lessons apply to building a knowledge network
 I think learning is equivalent to the *process of search* - we don't know how everything falls in place or even what we're looking for in the face of unknowns, but we find them nevertheless along the way of searching. 
 
 My preferred way of learning is writing things down to test my understanding and remix with prior knowledge. In this light, backlinks in Obsidian are just the "saved" searches and the little checkpoints in my head, organically grown out of curiosity
+
+## Personal convention
+
+Two ways I see internal links 
+1. Implicit / contextual association
+	1. Natural concept linking within the course of writing, with context surf-able in the backlink UI
+2. Explicit association
+	- Example: `Categories` for Steph Ango's [vault](https://stephango.com/vault), `up` for Nick Milo's MoCs, `See also` for Jacky
+
+Prefer the former over the latter
