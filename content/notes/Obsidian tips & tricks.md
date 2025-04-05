@@ -1,6 +1,6 @@
 ---
 created: '2024-10-19'
-modified: '2025-03-27'
+modified: '2025-04-04'
 ---
 
 Here are a few fancier snippets of how I use [[notes/Obsidian|Obsidian]]. It's one of the many ways you can use it. Take what you like.
@@ -24,9 +24,13 @@ I use both daily notes with theme logs, which I wrote more about [[A Year of Jou
 
 *Daily note for [interstitial journaling](https://nesslabs.com/interstitial-journaling) and general scratch place*
 
+![[/assets/interstitial-journal-highlight-31c8e080ff58478c590b8cff14e16f20.gif|300]]
+
+*Highlights to remember the days by, with week notes to navigate*
+
 ![[/assets/journal-log-5a6a57b90f52fd6d3f6930094f9255f0.webp|350]]
 
-*Logs for thoughts collected under a "theme" or topic of interest*
+*Logs for thoughts collected under a "theme" or area of interest*
 
 ### Milestone
 
