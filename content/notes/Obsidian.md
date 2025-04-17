@@ -1,6 +1,6 @@
 ---
 created: '2024-09-12'
-modified: '2025-03-29'
+modified: '2025-04-16'
 ---
 Obsidian is a lovely text editor / note app with an emphasis on internal links.
 
@@ -22,9 +22,9 @@ It's not the most intuitive tool, not because of the tool itself, but often how 
 
 If Google and LLMs are knowledge base built at the scale of internet, Obsidian is one built at the personal level. 
 
-When starting off w. those kind of personal knowledge apps, it's quite easy to be overly concerned with a problem of search: how to *organize* things, so you can easily find them later in your own context of use. A common tendency then is to try to re-create this [[#Personal convention|topology]] of information as you see fit in your mind: with folders, tags, links, visual dashboards, rules to create information (i.e. map of content, naming convention), and various note taxonomies.
+When starting off w. those kind of personal knowledge apps, it's quite easy to be overly concerned with a problem of search: how to *organize* things, so you can easily find them later in your own context of use. A common tendency then is to try to re-create this topology of information as you see fit in your mind: with folders, tags, [[#Personal convention|links]], visual dashboards, rules to create information (i.e. map of content, naming convention), and various note taxonomies.
 
-Eventually, one can easily fall into the way of re-building [Yahoo](https://medium.com/@monishkumar/yahoo-vs-google-how-the-homepage-has-evolved-3476dc2929d6), which even on a personal scale can get quickly out of hand. In general, search is a hard problem because there're millions of ways you can carve up units of information semantically, but which results "fit" your future context of use[^1] and how to best fetch them are not predictable prior to the organization.
+Eventually, one can easily fall into the way of re-building [Yahoo](https://medium.com/@monishkumar/yahoo-vs-google-how-the-homepage-has-evolved-3476dc2929d6), which even on a personal scale can get quickly out of hand. In general, search is a hard problem because there're millions of ways you can carve up units of information semantically, but which results "fit" your future context of use[^1] and how to best fetch them are not predictable prior to the indexing.
 
 [^1]: Similarly, there's millions of ways to say something in writing, but there's usually only a few that fits the context or your style
 
@@ -32,20 +32,21 @@ I found the [Bitter lesson by Rich Sutton](http://incompleteideas.net/IncIdeas/B
 
 > The actual contents of minds are tremendously, irredeemably complex; we should stop trying to find simple ways to think about the contents of minds, such as simple ways to think about space, objects, multiple agents, or symmetries. All these are part of the arbitrary, intrinsically-complex, outside world. They are not what should be built in, as their complexity is endless; instead we should build in only the meta-methods that can find and capture this arbitrary complexity. ... We want AI agents that can discover like we can, not which contain what we have discovered. Building in our discoveries only makes it harder to see how the discovering process can be done.
 
-Many of the lessons apply to building a knowledge network
+Many of the lessons apply here to building a knowledge network
 1. Focus on the means of learning, or the "meta-methods" - writing, doodling, talking about it
 2. Trust that the process of learning in re-wiring your brain, rather than replicating it via technical means. The latter is often constraining to the former
 
-I think learning is equivalent to the *process of search* - we don't know how everything falls in place or even what we're looking for in the face of unknowns, but we find them nevertheless along the way of searching. 
+I think learning is equivalent to the *process of search* - we don't know how everything falls in place or even what we're looking for in the midst of unknowns, but we find them nevertheless along the way of searching.
 
-My preferred way of learning is writing things down to test my understanding and remix with prior knowledge. In this light, backlinks in Obsidian are just the "saved" searches and the little checkpoints in my head, organically grown out of curiosity
+My preferred way of learning is writing things down to test my understanding and remix with prior knowledge. In this light, links in Obsidian are just the "saved" searches and the little checkpoints in my head, organically grown out of curiosity
 
 ## Personal convention
 
 Two ways I see internal links 
 1. Implicit / contextual association
-	1. Natural concept linking within the course of writing, with context surf-able in the backlink UI
+	- Natural concept linking within the course of writing, with context surf-able in the backlink UI
 2. Explicit association
+	- Explicit connection, often categorical in nature
 	- Example: `Categories` for Steph Ango's [vault](https://stephango.com/vault), `up` for Nick Milo's MoCs, `See also` for Jacky
 
 Prefer the former over the latter
