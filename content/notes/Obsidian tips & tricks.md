@@ -1,6 +1,6 @@
 ---
 created: '2024-10-19'
-modified: '2025-04-04'
+modified: '2025-04-26'
 ---
 
 Here are a few fancier snippets of how I use [[notes/Obsidian|Obsidian]]. It's one of the many ways you can use it. Take what you like.
@@ -12,7 +12,7 @@ My vault[^1]
 [^1]: a folder on your local file system where Obsidian stores your notes, attachments, and configuration files
 
 > [!warning]-
-> It contains a fair bit of scripts, which is bit of an indulgent hobby of mine to customize from time to time. Use at your own risk. 
+> It contains a fair bit of scripts, which is a small indulgent hobby of mine to customize from time to time. Use at your own risk. 
 > 
 > Obsidian ultimately is just a writing tool; these are for fun things I experiment with and will likely be simplified as my own use evolves.
 
@@ -20,7 +20,7 @@ My vault[^1]
 
 I use both daily notes with theme logs, which I wrote more about [[A Year of Journaling|here]]
 
-![[/assets/interstitial-journal-1-de3e6eaecd78948a195fd6b8db3dd4b1.webp|350]]  ![[/assets/jots-11849dd1f1decf7232c596375c7d0f87.webp|350]]
+![[/assets/interstitial-journal-1-de3e6eaecd78948a195fd6b8db3dd4b1.webp|350]]  ![[/assets/jots-11849dd1f1decf7232c596375c7d0f87.webp|300]]
 
 *Daily note for [interstitial journaling](https://nesslabs.com/interstitial-journaling) and general scratch place*
 
