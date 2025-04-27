@@ -9,9 +9,9 @@ I write with the express purpose of unraveling thoughts in my head
 
 A close family friend once gave me a nickname: 問題青年, which is a play on word to mean a delinquent and a kid with loads of questions. It is, I have to admit, one of the most fitting name I had to date.
 
-Being constantly troubled in my head by questions (and the hope for an answer) is perhaps both a vice and a virtue. Well, mostly a vice personally, since this obsession has been a pain to live with: I often just feel *stuck* unless all of my thoughts get cleanly connected somehow; it is a common flaw to the more cerebral types of personality: dwelling more on thoughts that are a proxy to reality than actually interacting with it.
+Being constantly troubled in my head by questions (for an answer) is perhaps both a vice and a virtue. Well, mostly a vice personally, since this obsession has been a pain to live with: I often just feel *stuck* unless all of my thoughts get cleanly connected somehow; it is a common flaw to the more cerebral types of personality: dwelling more on ideas (which are proxies to reality) than testing things out with actions.
 
-This digital garden is an attempt to answer some of the questions that have grasped me ever since childhood. A garden is a medium between half-baked notes and blog, between messages written to self and written for broadcast. It is an open experiment for myself to iterate faster on those thoughts (by flushing them out) as well as an invitation to create things out of them.
+This digital garden is an attempt to answer some of the questions that have grasped me ever since childhood. A garden is a medium between half-baked notes and blog, between messages written to self and written for broadcast. It is an open experiment for myself to iterate faster on those thoughts as well as an invitation to create things out of them.
 
 For the most part, the only intended audience of those writings is myself. But a secondary benefit in sharing them is to invite feedback from whomever equally interested in those topics (and more of an expert than me!). 
 
