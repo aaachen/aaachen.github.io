@@ -1,6 +1,6 @@
 ---
 created: '2024-10-19'
-modified: '2025-04-26'
+modified: '2025-05-04'
 ---
 
 Here are a few fancier snippets of how I use [[notes/Obsidian|Obsidian]]. It's one of the many ways you can use it. Take what you like.
@@ -101,4 +101,3 @@ With a "[back-of-the-sheet](https://www.youtube.com/watch?v=zmgqMZi6QL8)" note (
 Most other times I search by the file names, which is sometimes faster as it has better [conceptual](https://notes.andymatuschak.org/z2hQEhqWkdRLL9JUwfawZZx) correlation in my head than the package name.
 
 ![[/assets/visual-zettel-code-navigation-2b55217beeecf5fabd70cac2a0c339a8.gif|visual-zettel-code-navigation.gif]]
-

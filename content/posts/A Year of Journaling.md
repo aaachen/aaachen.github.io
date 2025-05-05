@@ -1,6 +1,6 @@
 ---
 created: '2025-03-24'
-modified: '2025-04-01'
+modified: '2025-05-04'
 ---
 Have you ever looked back at a recent picture and have no recollection of it? 
 
@@ -30,7 +30,7 @@ Interstitial journaling was one of the game changers I discovered for writing ab
 
 > The basic idea of interstitial journaling is to write a few lines every time you take a break, and to track the exact time you are taking these notes - [Anne-Laure Le Cunff](https://nesslabs.com/interstitial-journaling)
 
-Rather than going through the herculean effort of recalling all that's happened each night, journaling this way becomes jotting down the most interesting things that've transpired between two timestamps. Most of the "journaling" I do during the day is simply dropping a bulleted timestamp (with a small toolbar shortcut). They are the little cues that invite me to add more later when things wind down. The main thing is figuring out what's a good interval for yourself, so it doesn't get in the way of the day. 
+Rather than going through herculean effort of recalling all that's happened each night, journaling this way becomes jotting down the most interesting things that've transpired between timestamps. Most of the "journaling" I do during the day is simply dropping bulleted timestamps with a small toolbar shortcut. They are the little invitations for myself to add more later when things wind down. Like like any journal, it's a self-reflection space, not a timetable that you're micro-managing yourself with, so freely exercise any selection bias here. The main thing is figuring out what's a good interval for yourself, so it doesn't get in the way of the day.
 
 To do less doomscrolling, I also jot down thoughts around my information stream. I start most of my writings here, typically writing out my full thoughts first, and then link or extract things out afterwards to bootstrap ideas I'm interested in going back later. This idea came from Sarah Constantin's [public roam notebook](https://roamresearch.com/#/app/srcpublic), which I found from this [ribbonfarm post](https://www.ribbonfarm.com/2024/10/10/ribbonfarm-is-retiring/).  
 
@@ -62,10 +62,9 @@ I've been consistently journaling everyday for over a year now, which is pretty 
 In the process of building this, I also went back to organize my old Apple notes; and reading those entries brought back some sense of the times around those pictures. 
 I am someone who tends to get easily lost in my head, over some minute details that are hard for me to let go. I have always been this way, ever since I was a kid. But what's apparent from those journals was an absent-mindedness that got more out of control than the usual. Because I was a new college graduate at that time, some of the mental fog came from the natural friction of transitioning into the workforce and adapting to office culture. Though amidst the isolated state of the world, it was largely grief that colored that time into whiteness:
 
-> "The days were an unending funeral, and every little thing became ritualistic in some way... a shadow of the past" - 04-2021
+> "The days were an unending funeral, and every little thing became ritualistic in some way..." - 04-2021
 
-From interactions with co-workers, to little feedback from managers, events from this world would often tunnel me back to that chapel inside my head; many things kept me there - guilt, shame, loneliness, and I stayed there for a long, long time.
-I didn't remember, because I simply wasn't there.
+From interactions with co-workers, to little feedback from managers, events from this world would often tunnel me back to that chapel inside my head; many things kept me there - guilt, shame, loneliness; those shadows of the past gripped onto me, and I stayed there for a long, long time. I didn't remember, because I simply wasn't there.
 
 Slowly throughout those years, it morphed and grew into the fear of letting things go, into the paranoia behind this project. It made sense why those pictures bothered me so much. I was afraid of making a worse mistake than I've already made as a kid: not paying attention to the people I have and being present when they were right in front of me.
 
@@ -80,6 +79,10 @@ I hope this gives a little bit of inspiration to those who want to try journalin
 ![[/assets/img-7340-11e90ba6518225e1b6486eaf648c54ec.webp|350]]
 
 The [life calendar](https://waitbutwhy.com/2014/05/life-weeks.html) in my room
+
+---
+
+[Reddit post](https://www.reddit.com/r/ObsidianMD/comments/1jmdxwb/i_journaled_for_427_days_in_obsidian_and_built_a/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 
 %%
