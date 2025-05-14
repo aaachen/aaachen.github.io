@@ -1,6 +1,6 @@
 ---
-created: '2024-10-19'
-modified: '2025-05-04'
+created: Invalid DateTime
+modified: Invalid DateTime
 ---
 
 Here are a few fancier snippets of how I use [[notes/Obsidian|Obsidian]]. It's one of the many ways you can use it. Take what you like.

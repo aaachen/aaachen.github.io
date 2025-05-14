@@ -1,6 +1,6 @@
 ---
-created: '2025-03-10'
-modified: '2025-04-05'
+created: Invalid DateTime
+modified: Invalid DateTime
 tags:
   - sapling☘️
 ---
@@ -30,7 +30,7 @@ The value creation process (a job) often needs to be repeatable in itself, becau
 
 Maybe I'm an idealist to the core, but I always try to remind myself that money is only a bearer (and therefore a proxy) to value. That is, while almost everything requires / can be made transactional with money, money *by itself* does not entirely make up for why we do things for one another. A provider provides service to another (say, teaching English), because, well, both the provider and the consumers see certain *intrinsic value* in that service.  
 
-There has to be a mover other than money, cultural in some way. At least it makes me happy in believing that and aligning my personal values in the things I do. It's hollowing for me to operate entirely off of monetary incentives, if there's nothing for that money to *convert to* - [[Value conversion problem]]
+There has to be a mover other than money, cultural in some way. At least it makes me happy in believing that and aligning my personal values in the things I do. It's hollowing for me to operate entirely off of monetary incentives, if there's nothing for that money to [[Value conversion problem|convert to]]
 
 Examples: volunteering, public goods, building things, [[Play]]
 - [[Open source]] as a public good? Gift economy?

@@ -1,6 +1,6 @@
 ---
-created: '2024-09-12'
-modified: '2025-04-26'
+created: Invalid DateTime
+modified: Invalid DateTime
 ---
 Obsidian is a lovely text editor / note app with an emphasis on internal links.
 
