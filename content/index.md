@@ -2,7 +2,6 @@
 title: Forest
 aliases:
   - Website Home Page
-modified: Invalid DateTime
 ---
 # Hi, I'm Andrew
 
