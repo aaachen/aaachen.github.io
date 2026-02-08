@@ -30,7 +30,7 @@ Interstitial journaling was one of the game changers I discovered for writing ab
 
 > The basic idea of interstitial journaling is to write a few lines every time you take a break, and to track the exact time you are taking these notes - [Anne-Laure Le Cunff](https://nesslabs.com/interstitial-journaling)
 
-Rather than going through herculean effort of recalling all that's happened each night, journaling this way becomes jotting down the most interesting things that've transpired between timestamps. Most of the "journaling" I do during the day is simply dropping bulleted timestamps with a small toolbar shortcut. They are the little invitations for myself to add more later when things wind down. Like like any journal, it's a self-reflection space, not a timetable that you're micro-managing yourself with, so freely exercise any selection bias here. The main thing is figuring out what's a good interval for yourself, so it doesn't get in the way of the day.
+Rather than going through herculean effort of recalling all that's happened each night,  interstitial journal provides a little memory structure with timestamps. Most of the "journaling" I do during the day is simply dropping bulleted timestamps with a small toolbar shortcut. They are the little invitations for myself to add more later when things wind down. Like any journal, it's a self-reflection space, not a timetable to micro-manage yourself with, so freely exercise any selection bias here. The main thing is figuring out what's a good interval for yourself, so it doesn't get in the way of the day.
 
 To do less doomscrolling, I also jot down thoughts around my information stream. I start most of my writings here, typically writing out my full thoughts first, and then link or extract things out afterwards to bootstrap ideas I'm interested in going back later. This idea came from Sarah Constantin's [public roam notebook](https://roamresearch.com/#/app/srcpublic), which I found from this [ribbonfarm post](https://www.ribbonfarm.com/2024/10/10/ribbonfarm-is-retiring/).  
 
@@ -44,7 +44,7 @@ Lastly, my daily note is synced with Google photos. In a way, I think of my jour
 
 ![[/assets/on-this-day-section-a43684a2d4ff0438a0fd8fa1b76fbba2.webp|350]]
 
-Some days are special, like the Christmas Eve last year when I attended a candle light service with my girlfriend. I call those days "occasions" and give them a tag.
+Some days are more special, like the Christmas Eve last year when I attended a candle light service with my girlfriend. I call those days "occasions" and give them a tag.
 
 ![[/assets/old-south-church-day-068db758f9d3f9d7ad6f9634a37f34b7.webp|350]]
 
@@ -53,6 +53,7 @@ Those days then show up in the weekly notes with a little star beside them and i
 ![[/assets/week-occasion-aa60acad50de9819a747880a861e3e50.webp|350]]
 
 ![[/assets/2024-dashboard-72f80c15dd20bedb4f1b2ee2d2671fc1.webp|750]]
+
 *See [[Obsidian tips & tricks|here]] if you're interested to check it out more*
 
 ---
@@ -72,7 +73,7 @@ Slowly throughout those years, it morphed and grew into the fear of letting thin
 
 I didn't really treasure my days, and it's a lesson I'm continuing to learn: regardless of how they're being recorded, days are irrevocably gone if I don't live them well. 
 
-Out of the many things I learnt from building in and using Obsidian, my biggest insight was nothing computational in nature but rather the act of writing itself. Writing is both a process of [[Obsidian#As a saved search|searching]] and the preservation of it. With information becoming ever easier to produce, circulate, and consume, writing carves out some space for ourselves, for information that means something to us not to be lost in the stream. 
+Out of the many things I learnt from building in and using Obsidian, my biggest insight was nothing computational in nature but rather the act of [[Writing|writing]] itself. Writing is both a process of [[Obsidian#As a saved search|searching]] and the preservation of it. With information becoming ever easier to produce, circulate, and consume, writing carves out some space for ourselves, for information that means something to us not to be lost in the stream. 
 
 I hope this gives a little bit of inspiration to those who want to try journaling more consistently this year. A digital medium is something that just happens to work for me, since I grew up with a phone and used to texting myself inside note apps. It helps me write anywhere at anytime, but most of all, writing gives me a chance to mold the present from the past, so I can live better tomorrow
 

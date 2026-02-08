@@ -3,6 +3,12 @@ created: Invalid DateTime
 modified: Invalid DateTime
 ---
 
+%%
+TODO:
+- Add move to journal shortcut gif beside log
+- update habit dashboard picture
+%%
+
 Here are a few fancier snippets of how I use [[notes/Obsidian|Obsidian]]. It's one of the many ways you can use it. Take what you like.
 
 My vault[^1]
@@ -15,6 +21,17 @@ My vault[^1]
 > It contains a fair bit of scripts, which is a small indulgent hobby of mine to customize from time to time. Use at your own risk. 
 > 
 > Obsidian ultimately is just a writing tool; these are for fun things I experiment with and will likely be simplified as my own use evolves.
+
+## Links
+
+Two ways I see internal links
+1. Implicit / contextual association
+	- Natural concept linking within the course of writing, with context surf-able in the backlink UI
+2. Explicit association
+	- Explicit connection, often categorical in nature
+	- Example: `Categories` for Steph Ango's [vault](https://stephango.com/vault), `up` for Nick Milo's MoCs, `See also` for Jacky
+
+Prefer the former over the latter
 
 ## Journal
 
@@ -35,7 +52,6 @@ I use both daily notes with theme logs, which I wrote more about [[A Year of Jou
 ### Milestone
 
 I prefer the framing of milestones over goals: the former is fundamentally made from what you have done, while the latter is part of an unrealized future. Plus, a milestone can function as a mini-goal when it is set in the future while not implying a totally fixed outcome/direction -> [plans are worthless, but planning is everything](https://notes.andymatuschak.org/zW6n1miCtJLdMh6BKgBgHFY)
-
 
 ![[/assets/milestone-demo-7f5315eabf141a944775d90048abc9b0.gif|milestone-demo.gif]]
 

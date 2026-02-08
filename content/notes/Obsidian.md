@@ -6,7 +6,7 @@ Obsidian is a lovely text editor / note app with an emphasis on internal links.
 
 People who're into it usually play with a way of connective thinking, or transforming thoughts in text (a one-dimensional medium) to a multi-dimensional network via [hyperlink](https://en.wikipedia.org/wiki/Hyperlink). The hope is to explore any forgotten or novel connections buried between them. Obsidian is a pretty renderer of [text files](https://stephango.com/file-over-app) tailored to this purpose. 
 
-It's not the most intuitive tool, not because of the tool itself, but often how or what to use it for within this nebulous context. Here's just my two cents of what I think the app is good for.
+It's not the most intuitive tool, not because of the tool itself, but often how or what to use it for within this nebulous context. Here's just my two cents of the app
 
 >[!info]- See also
 >
@@ -22,9 +22,9 @@ It's not the most intuitive tool, not because of the tool itself, but often how 
 
 If Google and LLMs are knowledge base built at the scale of internet, Obsidian is one built at the personal level. 
 
-When starting off w. those kind of personal knowledge apps, it's quite easy to be overly concerned with a problem of search: how to *organize* things, so you can easily find them later in your own context of use. A common tendency then is to try to re-create this topology of information as you see fit in your mind: with folders, tags, [[#Personal convention|links]], visual dashboards, rules to create information (i.e. map of content, naming convention), and various note taxonomies.
+When starting off w. personal knowledge apps, it's quite easy to become overly concerned with a problem of search: how to *organize* things, so you can easily find them later in your own context of use. A common tendency then is to try to re-create this topology of information as you see fit in your mind: with folders, tags, [[Obsidian tips & tricks#Links|links]], visual dashboards, rules to create information (i.e. map of content, naming convention), and various note taxonomies.
 
-Eventually, one can easily fall into the way of re-building [Yahoo](https://medium.com/@monishkumar/yahoo-vs-google-how-the-homepage-has-evolved-3476dc2929d6), which even on a personal scale can get quickly out of hand. In general, search is a hard problem because there're millions of ways you can carve up units of information semantically, but which results "fit" your future context of use[^1] and how to best fetch them are not predictable prior to the indexing.
+Eventually, one can easily fall into the way of re-building [Yahoo](https://medium.com/@monishkumar/yahoo-vs-google-how-the-homepage-has-evolved-3476dc2929d6), which even on a personal scale can get quickly out of hand. In general, search is a hard problem because there're millions of ways you can carve up units of information, but which results "fit" your future context of use[^1] and how to best fetch them are not predictable.
 
 [^1]: Similarly, there's millions of ways to say something in writing, but there's usually only a few that fits the context or your style
 
@@ -40,13 +40,31 @@ I think learning is equivalent to the *process of search* - we don't know how ev
 
 My preferred way of learning is writing things down to test my understanding and remix with prior knowledge. In this light, links in Obsidian are just the "saved" searches and the little checkpoints in my head, organically grown out of curiosity
 
-## Personal convention
+## [[Finding a contiguous space to work on your thoughts]]
 
-Two ways I see internal links 
-1. Implicit / contextual association
-	- Natural concept linking within the course of writing, with context surf-able in the backlink UI
-2. Explicit association
-	- Explicit connection, often categorical in nature
-	- Example: `Categories` for Steph Ango's [vault](https://stephango.com/vault), `up` for Nick Milo's MoCs, `See also` for Jacky
+I think this is an abstract "feature" that different knowledge / creative tools aim to achieve - clustering disconnected information and related thoughts into a *contiguous space* for your mind.
 
-Prefer the former over the latter
+- Obsidian - a file + text backlinks into file
+	- ==Each file is a contiguous space==, text links focused but struggles with media
+- Are.na - focused on media / webpages, cluster into "blocks"
+	- Each block is a space of interest you can browse
+- AI agents that search and arrange the information for you 
+	- Each chat is a contiguous space for your inquiries
+- A simple google doc, google sheet
+- A chapter of a book
+- Papers, journal, ... on your desk (Oda's manga workshop)
+
+It's a helpful mind frame to make sense of those various tools. The end goal of them is to construct such a contiguous space. 
+
+There're different ways to achieve but that's all to it. Choose an anchor for your use and not be distracted by choice of tools.
+
+## Your mind is not static
+
+*2025-10-17*
+%%
+Not only there're different words to name our thoughts
+
+But that the naming itself exercises too much of the intellect, when lots of our thoughts are not nameable / chunkable into words... they arise to us not explicitly through the intellect but something more *direct*... call it the subconscious, emotion, intuition... they're part of the ever evolving terrain of the mind... words are only just one kind of surface and embodiment of them
+
+Link [[Zettelkasten]] reference here
+%%
